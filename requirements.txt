@@ -3,4 +3,6 @@ pandas
 geopandas
 folium
 streamlit-folium
+plotly
 openpyxl
+requests
